@@ -1,0 +1,317 @@
+Security Reporting
+Part I: Symantec
+For Part 1 of your homework assignment, you should primarily use the Symantec Internet Security Threat Report along with independent research to answer the following questions.
+
+What is formjacking?
+Formjacking is a relatively new form of digital information theft caused by hacker attacks on commercial websites involved in banking, e-commerce and other activities that collect customers' personal information. When cybercriminals inject malicious JavaScript code to hack a website and take over the functionality of the site's form page to collect sensitive user information, it is termed as formjacking. In other words, Formjacking is designed to steal personal identity information such as credit card details and other information that can be captured on the checkout pages of websites.
+Much of the formjacking activity has been blamed on actors dubbed Magecart, which is believed to be several groups, with some, at least, operating in competition.
+How many websites are compromised each month with formjacking code?
+Symantec data shows that 4818 unique websites were compromised with formjacking code every month in 2018.The figures are alarming. 
+What is Powershell?
+In the physical world, “living off the land” simply means to survive only by the resources that you can harvest from the natural land. In the technology world, “living off the land” (LotL) refers to attacker behavior that uses tools or features that already exist in the target environment. Recent reports reveal that cyber attackers opt for off-the shelf tools and operating system features to conduct attacks. This trend is referred to as ‘living off the land’. 
+PowerShell is an integral part of most operating systems. It is also a body that governs different areas of cybersecurity. PowerShell is an automation platform for Microsoft Windows. It is a scripting language through which users can instruct the system, which creates a massive platform for functionality and various use cases. Due to its seamless integration with Microsoft NET. Framework, it provides hackers with an ideal platform to breach through PowerShell into the windows environments. 
+
+
+What was the annual percentage increase in malicious Powershell scripts?
+Use of malicious PowerShell scripts increased by 1000 percent in 2018, as attackers continued the movement towards living off the land techniques.  A common attack scenario uses office macros to call a powershell script, which in turn downloads the malicious payload. 
+What is a coinminer?
+Coinminers are also called as cryptocurrency miners. These are the programs that generate cryptocurrencies like Bitcoin, Monero, Ethereum. It can be a valuable source of income when run intentionally for one’s benefit. But some people created threats and viruses which uses mining software to perform crypto jacking. During this activity, it consumes a lot of processing power and makes the computer slower than usual. Cyber criminals surreptitiously run coinminers program on victim’s devices without their knowledge and use their central processing unit (CPU) power to mine cryptocurrencies. Cryptojacking activity peaked between DEcember 2017 and February 2018, with Symantec blocking around 8 million cryptojacking events per month in that period. 
+
+How much can data from a single credit card can be sold for? 
+Data from a single credit card being sold for up to 45 on underground markets, just 10 credit cards stolen from compromised websites could result in a yield of up to $2.2 million for cyber criminals each month. 
+
+
+How did Magecart successfully attack Ticketmaster? 
+Magecart compromised a third-party chatbot, which loaded malicious code into the web browsers of visitors to Ticketmaster’s website, with the aim of harvesting customers’ payment data.
+What is one reason why there has been a growth of formjacking?
+The growth in formjacking in 2018 may be partially explained by the drop in the value of cryptocurrencies during the year: cyber criminals who may have used websites for cryptojacking may now be opting for formjacking. 
+Cryptojacking dropped by what percentage between January and December 2018?
+Cryptojacking activity did fall during the year, dropping by 52 percent between January and December 2018. 
+
+If a web page contains a coinmining script, what happens? 
+Cryptojacking
+
+
+How does an exploit kit work? 
+An exploit kit or exploit pack is a type of toolkit cybercriminals use to attack vulnerabilities in systems so they can distribute malware or perform other malicious activities. Exploit kits are packaged with exploits that can target commonly installed software such as Adobe Flash®, Java®, Microsoft Silverlight®.
+
+The exploit kit gathers information on the victim machine, finds vulnerabilities and determines the appropriate exploit, and delivers the exploit, which typically silently drive-by downloads and executes malware, and further running post-exploitation modules to maintain further remote access to the compromised system.
+
+What does the criminal group SamSam specialize in? 
+
+
+A notable number of highly damaging targeted ransomware attacks hit organizations in 2018, many of which were conducted by the SamSam group. In tandem with SamSam, other targeted ransomware groups have become more active.
+
+How many SamSam attacks did Symantec find evidence of in 2018? 
+
+
+During 2018, Symantec found evidence of 67 SamSam attacks, mostly against organizations in the U.S.
+
+
+
+Even though ransomware attacks declined in 2017-2018, what was one dramatic change that occurred? 
+Up until 2017, consumers were the hardest hit by ransomware, accounting for the majority of infections. In 2017, the balance tipped towards enterprises, with the majority of infections occurring in businesses. In 2018, that shift accelerated and enterprises accounted for 81 percent of all ransomware infections. While overall ransomware infections were down, enterprise infections were up by 12 percent in 2018.
+
+In 2018, what was the primary ransomware distribution method? 
+During 2018, the chief ransomware distribution method was email campaigns. Enterprises tend to be more affected by email-based attacks since email remains the primary communication tool for organizations.
+
+What operating systems do most types of ransomware attacks still target?
+Windows based computers
+
+What are “living off the land” attacks? What is the advantage to hackers? 
+In the technology world, “living off the land” (LotL) refers to attacker behavior that uses tools or features that already exist in the target environment. 
+
+What is an example of a tool that’s used in “living off the land” attacks?
+powershell
+
+
+What are zero-day exploits?
+A zero day exploit is a cyber attack that occurs on the same day a weakness is discovered in software. At that point, it's exploited before a fix becomes available from its creator.	
+
+
+
+By what percentage did zero-day exploits decline in 2018? 
+23%
+
+What are two techniques that worms such as Emotet and Qakbot use?
+simple techniques including dumping passwords from memory or brute-forcing access to network shares to laterally move across a network.
+
+What are supply chain attacks? By how much did they increase in 2018?
+Supply chain attacks, which exploit third-party services and software to compromise a final target, take many forms, including hijacking software updates and injecting malicious code into legitimate software. Developers continued to be exploited as a source of supply chain attacks, either through attackers stealing credentials for version control tools, or by attackers compromising third-party libraries that are integrated into larger software projects.
+78%
+
+What challenge do supply chain attacks and living off the land attacks highlight for organizations? 
+The surge in formjacking attacks in 2018 reinforced how the supply chain can be a weak point for online retailers and eCommerce sites. Many of these formjacking attacks were the result of the attackers compromising third-party services commonly used by online retailers, such as chatbots or customer review widgets.
+
+
+
+
+The 20 most active groups tracked by Symantec targeted an average of how many organizations between 2016 and 2018? 
+55
+
+How many individuals or organizations were indicted for cyber criminal activities in 2018? What are some of the countries that these entities were from? 
+
+
+Forty-nine individuals or organizations were indicted during 2018, up from four in 2017 and five in 2016. While most of the headlines were devoted to the indictment of 18 alleged Russian agents, most of whom were charged with involvement in attacks relating to the 2016 presidential election, the indictments were far more wide ranging. Alongside Russian nationals, 19 Chinese individuals or organizations were charged, along with 11 Iranians, and one North Korean.
+
+When it comes to the increased number of cloud cybersecurity attacks, what is the common theme? 
+Poor configuration: 
+
+What is the implication for successful cloud exploitation that provides access to memory locations that are normally forbidden? 
+Successful exploitation provides access to memory locations that are normally virtual processors, they share pools of memory—meaning that a successful attack on a single physical system could result in data being leaked from several cloud instances.
+
+What are two examples of the above cloud attack? 
+Hardware vulnerabilities - Meltdown and Spectre exploit critical vulnerabilities in modern processors . These hardware vulnerabilities allow programs to steal data which is currently processed on the computer.
+
+Regarding Internet of Things (IoT) attacks, what were the two most common infected devices and what percentage of IoT attacks were attributed to them? 
+Routers and connected cameras were the most infected devices and accounted for 75 and 15 percent of the attacks respectively.
+
+What is the Mirai worm and what does it do? 
+At its core, Mirai is a self-propagating worm, that is, it's a malicious program that replicates itself by finding, attacking and infecting vulnerable IoT devices. It is also considered a botnet because the infected devices are controlled via a central set of command and control (C&C) servers. 
+
+
+Why was Mirai the third most common IoT threat in 2018? 
+16 percent of the IoT threats were attacks by The notorious Mirai distributed denial of service (DDoS) worm in 2018
+
+What was unique about VPNFilter with regards to IoT threats?
+The emergence of VPNFilter in 2018 represented an evolution of IoT threats. VPNFilter was the first widespread persistent IoT threat, with its ability to survive a reboot making it very difficult to remove. With an array of potent payloads at its disposal, such as man in the middle (MitM) attacks, data exfiltration, credential theft, and interception of SCADA communications, VPNFilter was a departure from traditional IoT threat activity such as DDoS and coin mining. It also includes a destructive capability which can “brick,” or wipe a device at the attackers’ command, should they wish to destroy evidence. VPNFilter is the work of a skilled and well-resourced threat actor and demonstrates how IoT devices are now facing attack from many fronts.
+
+What type of attack targeted the Democratic National Committee in 2019? 
+In January 2019, the DNC revealed it was targeted by an unsuccessful spear-phishing attack.
+
+
+
+What were 48% of  malicious email attachments in 2018? 
+Office files
+
+
+
+What were the top two malicious email themes in 2018? 
+Bills and email delivery failure
+
+
+
+What was the top malicious email attachment type in 2018? 
+.doc - 37%
+
+Which country had the highest email phishing rate? Which country had the lowest email phishing rate?
+Saudi Arabia and Japan , respectively. 
+
+
+What is Emotet and how much did it jump in 2018? 
+Emotet is a kind of malware originally designed as a banking Trojan aimed at stealing financial data, but it’s evolved to become a major threat to users everywhere. Emotet accounts for 16% of financial trojans, up from 4% in 2017.
+
+What was the top malware threat of the year? How many of those attacks were blocked?
+Heur.AdvML.C - 43,999,373
+
+Malware primarily attacks which type of operating system? 
+Windows
+
+
+
+What was the top coinminer of 2018 and how many of those attacks were blocked? 
+JS.Webcoinminer - 2,768,721
+
+What were the top three financial Trojans of 2018? 
+Ramnit-271,930
+ZBot - 100,821
+Emotet - 92,039
+
+What was the most common avenue of attack in 2018? 
+Spear-phishing emails remained the most popular avenue for attack and were used by 65% of all known groups
+
+What is destructive malware? By what percent did these attacks increase in 2018? 
+Destructive malware is malicious software with the capability to render affected systems inoperable and challenge reconstitution. Most destructive malware variants cause destruction through the deletion, or wiping, of files that are critical to the operating system's ability to run.It increased by 25% 
+
+What was the top user name used in IoT attacks? 
+root
+
+What was the top password used in IoT attacks? 
+123456
+
+What were the top three protocols used in IoT attacks? What were the top two ports used in IoT attacks? 
+telnet
+http
+https
+
+In the underground economy, how much can someone get for the following? 
+
+Stolen or fake identity: 0.10 - 1.50$
+Stolen medical records:15-20$
+Hacker for hire:$100+
+Single credit card with full details: 1-45$
+500 social media followers: 2-6$
+
+
+
+
+
+Cybersecurity Threat Landscape (Part 2 - Akamai)
+In this part, you should primarily use the Akamai_Security_Year_in_Review_2019 and Akamai State of the Internet/ Security plus independent research to answer the below questions.
+______________________________________________________________________
+DDOS attack events from January 2019 to September 2019 largely targeted which industry? 
+Gaming Industry
+
+
+
+Almost 50% of unique targets for DDoS attacks from January 2019- September 2019 largely targeted which industry? 
+High technology is the top industry targeted by phishing. 
+
+Which companies are the top phishing targets, according to Akamai? 
+
+
+Microsoft, PayPal, DHL, Dropbox, DocuSign, and LinkedIn are all top phishing targets. 
+
+
+
+What is credential stuffing? 
+
+Credential stuffing is a type of cyberattack where stolen account credentials typically consisting of lists of usernames and/or email addresses and the corresponding passwords are used to gain unauthorized access to user accounts through large-scale automated login requests directed against a web application.
+
+
+
+Which country is the number one source of credential abuse attacks? Which country is number 2?
+United States 
+Russia 
+
+
+
+Which country is the number one source of web application attacks? Which country is number 2?
+United States
+Russia
+
+
+
+In Akamai’s State of the Internet report, it refers to a possible DDoS team that the company thought was affecting a customer in Asia (starts on page 11). 
+Describe what was happening.
+What did the team believe the source of the attack was? 
+
+A distributed denial-of-service (DDoS) attack is a malicious attempt to disrupt normal traffic to a web property. 
+
+Report (what was happening) : 
+
+Early in 2018, Akamai noticed a customer in Asia was receiving an abnormal amount of traffic to one of its URLs. The customer was seeing so much traffic that, at its peak, it almost overflowed the database Akamai uses to log such activity. 
+Traffic volume reached 875,000 requests per second at one point. Notes from early in the incident record the flood of traffic as highly distributed, with early log grabs recording 5.5 Gbps. When the incident first came to the attention of the Security Operations Command Center (SOCC), it didn’t come to them through normal channels. Instead, it was reported by another department within Akamai. Something was seriously wrong.  
+Once the SOCC started digging into the report, they observed a large amount of HTTP requests going to a customer’s URL. See image 1 At the time, there simply wasn’t any other way to explain the sudden unexpected flood of traffic. 
+Image 1
+
+
+
+
+SORTING THE DETAILS: 
+To determine the real cause of this traffic flood, the SIRT examined traffic to the URL in question a few days prior to this incident and noticed something interesting. 
+There were 139 IP addresses approaching the customer’s URL a few days before the peak, with the exact same “attack” features. This URL went from 643 requests, to well over 4 billion, in less than a week. The data in Figure 2 gives you an idea of how distributed these requests were. 
+
+Initial analysis showed that half of the IPs were flagged by Akamai as NAT gateways. Additional packet and header analysis confirmed the traffic in question was generated by a Windows COM Object (WinhttpRequest). 
+Originally, the traffic from the earlier visits to the customer’s URL contained GET and POST request methods. Now, thousands of IP addresses were shredding the URL with an unrelenting stream of POST requests. 
+Examining all the POST requests hitting the customer’s URL showed that the User-Agent fields were not being forged or otherwise altered once blocked, boosting the confidence SIRT researchers had for their conclusion that a Windows-oriented tool was responsible for this massive flood of requests. 
+What is an example of a performance issue with bot traffic? 
+
+When a majority of the traffic to your online business presence comes from bots, there is a profound ripple effect This ripple effect spreads across multiple risks associated with bot traffic, including performance issues (e.g., slow websites and frustrated customers) and increases in IT expenses. 
+
+Known-good bots are bots that perform useful or helpful tasks, and not do anything malicious to sites or servers. What are the main categories of known-good bots?
+
+
+SEARCH ENGINE CRAWLERS – web search engines operate for a wide variety of purposes, going from global search engines (e.g., Google, Bing) to more targeted ones such as job search engines, media and entertainment, commerce-focused search engines, or academic and research (publications, citation search, semantic analysis). 
+WEB ARCHIVES – scanning the web periodically and recording its content to searchable indexed databases. 
+SEARCH ENGINE OPTIMIZATION, AUDIENCE ANALYTICS, AND MARKETING SERVICE – scraping websites and social media for content that might provide customers with market insights such as positioning, mentions, and other references. 
+SITE MONITORING SERVICES – automated tools that monitor a site’s health, availability, and performance under load. 
+CONTENT AGGREGATORS – bots operated in this category would scan multiple sources on the web such as news, trends, product updates, price changes, stock quotes, etc. 
+
+What are two evasion techniques that malicious bots use? 
+Some bots tamper with browser properties, spoofing known fingerprint characteristics that are often whitelisted. Bots may also do cookie tampering in the hopes of evading detection, such as dropping cookies, or harvesting good cookies and playing them back.
+
+
+
+
+
+
+Cybersecurity Threat Landscape (Part 3 - Verizon)
+In this part, you should primarily use the Verizon Data Breaches Investigation Report plus independent research to answer the below questions.
+
+What is the difference between an incident and a breach? 
+Incident: A security event that compromises the integrity, confidentiality or availability of an information asset. 
+Breach: An incident that results in the confirmed disclosure—not just potential exposure—of data to an unauthorized party. 
+
+
+What percentage of breaches were perpetrated by outside actors? What percentage were perpetrated by internal actors? 
+69% - outside actors
+34% - internal actors
+
+
+What percentage of breaches were perpetrated by organized criminal groups? 
+Organized criminal groups were behind 39% of breaches 
+
+What percentage of breaches were financially motivated? 
+71%
+
+
+
+Define the following: 
+
+Denial of Service: A Denial-of-Service (DoS) attack is an attack meant to shut down a machine or network, making it inaccessible to its intended users. ... There are two general methods of DoS attacks: flooding services or crashing services.
+
+Command and Control : A command-and-control [C&C] server is a computer controlled by an attacker or cybercriminal which is used to send commands to systems compromised by malware and receive stolen data from a target network. It can be used to disseminate commands that can steal data, spread malware, disrupt web services, and more.
+
+Backdoor: A backdoor refers to any method by which authorized and unauthorized users are able to get around normal security measures and gain high level user access (aka root access) on a computer system, network or software application.
+
+Keylogger: Keyloggers are activity-monitoring software programs that give hackers access to your personal data. The passwords and credit card numbers you type, the webpages you visit – all by logging your keyboard strokes. The software is installed on your computer, and records everything you type
+
+
+
+The time from an attacker’s first action to the initial compromise of an asset is typically measured in which one? Seconds, minutes, hours, days? 
+
+Minutes
+
+
+
+When it comes to phishing, which industry has the highest click rates?
+Education
+
+
+
+
+
+
+
+
