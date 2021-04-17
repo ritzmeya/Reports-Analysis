@@ -1,6 +1,8 @@
 Security Reporting
 Part I: Symantec
-For Part 1 of your homework assignment, you should primarily use the Symantec Internet Security Threat Report along with independent research to answer the following questions.
+
+This report was used: https://github.com/ritzmeya/Reports-Analysis/blob/main/Symantec_Report.pdf
+
 
 What is formjacking?
 Formjacking is a relatively new form of digital information theft caused by hacker attacks on commercial websites involved in banking, e-commerce and other activities that collect customers' personal information. When cybercriminals inject malicious JavaScript code to hack a website and take over the functionality of the site's form page to collect sensitive user information, it is termed as formjacking. In other words, Formjacking is designed to steal personal identity information such as credit card details and other information that can be captured on the checkout pages of websites.
